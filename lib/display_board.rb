@@ -2,4 +2,5 @@
 # out the current state.
 def display_board
   boards = Array.new(9, " ")
+  puts boards
 end
